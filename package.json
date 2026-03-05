@@ -21,7 +21,7 @@
     "fs-extra": "^10.1.0",
     "htmlparser2": "^8.0.1",
     "jquery": "^3.6.1",
-    "jsdom": "^20.0.0",
+    "jsdom": "^28.1.0",
     "lodash": "^4.17.21",
     "node-html-parser": "^6.1.0",
     "ts-node": "^10.9.1",
